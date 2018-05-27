@@ -1,6 +1,6 @@
 # Prayansh's dotfiles
 These are my .dotfiles. There are many like them, but these ones are mine.
-![Screenshot of my shell prompt](https://imgur.com/OJRyxiy)
+![Screenshot of my shell prompt](https://i.imgur.com/OJRyxiy.png)
 
 ## Installation
 
